@@ -1,0 +1,2 @@
+# SerpentKOFGameAgent
+使用serpentai来编写KOF的AI

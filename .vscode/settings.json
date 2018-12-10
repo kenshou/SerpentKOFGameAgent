@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/ken/anaconda3/envs/serpent/bin/python",
+    "python.linting.pylintEnabled": true
+}
